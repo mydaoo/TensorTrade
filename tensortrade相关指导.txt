@@ -1,0 +1,9 @@
+TensorTrade：基于深度强化学习的Python交易框架
+公众号已翻译的文章 https://mp.weixin.qq.com/s?__biz=MzAxNTc0Mjg0Mg==&mid=2653295002&idx=1&sn=ce0ec3c2e22e7bd2dd297199225d500a&scene=21#wechat_redirect
+
+如果要入门，可以运行以下命令python3 -m pip install git+http://github.com/tensortrade-org/tensortrade.git@environment-refactor并从environment-refactor分支运行示例笔记本。
+
+旧笔记本案例
+https://colab.research.google.com/drive/1XaY3mO9fNzcJC_F4TR9NwmmIeydRIWMz   
+
+https://discord.gg/ZZ7BGWh  社区频道
